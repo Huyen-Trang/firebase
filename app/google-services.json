@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "771835712507",
+    "firebase_url": "https://androidhive-4407c.firebaseio.com",
+    "project_id": "androidhive-4407c",
+    "storage_bucket": "androidhive-4407c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771835712507:android:d842af33038fad5c",
+        "android_client_info": {
+          "package_name": "info.androidhive.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771835712507-dvesg92l804uvhie5ih84g37h2n87q7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5etJBx_veXLwY8GRVSmwp9Qppe-HcTMc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771835712507:android:f0179dc6d201473b",
+        "android_client_info": {
+          "package_name": "com.huyentrang.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771835712507-dvesg92l804uvhie5ih84g37h2n87q7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5etJBx_veXLwY8GRVSmwp9Qppe-HcTMc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
